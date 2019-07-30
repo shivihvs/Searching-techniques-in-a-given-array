@@ -1,4 +1,4 @@
-package shivani;
+package BubSort;
 
 import java.util.Scanner;
 
