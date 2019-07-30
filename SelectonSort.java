@@ -1,4 +1,4 @@
-package shivani;
+package SelSort;
 
 import java.util.Scanner;
 public class SelectonSort {
