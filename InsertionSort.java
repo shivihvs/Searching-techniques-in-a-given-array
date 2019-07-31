@@ -1,4 +1,4 @@
-package shivani;
+package InsSort;
 import java.util.Scanner;
 
 public class InsertionSort {
