@@ -15,3 +15,10 @@ In this project almost all  the sorting algorithms that can be donee in java aar
      -Best case=o(n^2).
      -Average case=o(n^2).
      -Wrost case=o(n^2).
+     
+3.Insertion Sort:
+    :-Time complexity:
+     -Best case=o(n).
+     -Average case=o(n^2).
+     -Wrost case=o(n^2).
+     
