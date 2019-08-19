@@ -8,17 +8,17 @@ In this project almost all  the sorting algorithms that can be donee in java aar
     :-Time complexity:
      -Best case=o(n).
      -Average case=o(n^2).
-     -Wrost case=o(n^2).](BubbleSort.cpp)
+     -Wrost case=o(n^2).](BubbleSort.java)
 
 2[.Selection Sort:
     :-Time complexity:
      -Best case=o(n^2).
      -Average case=o(n^2).
-     -Wrost case=o(n^2).](SelectionSort.cpp)
+     -Wrost case=o(n^2).](SelectionSort.java)
      
 3[.Insertion Sort:
     :-Time complexity:
      -Best case=o(n).
      -Average case=o(n^2).
-     -Wrost case=o(n^2).[(InsertionSort.cpp)
+     -Wrost case=o(n^2).[(InsertionSort.java)
      
